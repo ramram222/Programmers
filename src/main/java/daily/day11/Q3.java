@@ -1,8 +1,8 @@
-package level.lv0;
+package daily.day11;
 
 import java.util.Arrays;
 
-public class TheBiggest {
+public class Q3 {
     // 최댓값 만들기 (1)
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
