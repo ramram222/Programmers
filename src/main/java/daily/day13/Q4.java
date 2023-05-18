@@ -1,8 +1,8 @@
-package level.lv0;
+package daily.day13;
 
 import java.util.Arrays;
 
-public class MakeTriangle {
+public class Q4 {
     // 삼각형의 완성조건 (1)
     public static void main(String[] args) {
         int[] sides = {1, 2, 3};
