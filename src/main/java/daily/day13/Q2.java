@@ -1,6 +1,6 @@
-package level.lv0;
+package daily.day13;
 
-public class LengthOfElement {
+public class Q2 {
     // 배열 원소의 길이
     public static void main(String[] args) {
         String[] strList = {"We", "are", "the", "world!"};
