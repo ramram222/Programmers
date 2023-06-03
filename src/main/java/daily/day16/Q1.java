@@ -1,6 +1,6 @@
 package daily.day16;
 
-public class Letter {
+public class Q1 {
     // 편지
     public static void main(String[] args) {
         String message = "happy birthday!";

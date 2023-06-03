@@ -1,6 +1,6 @@
 package daily.day16;
 
-public class SimilarityOfArray {
+public class Q4 {
     public static void main(String[] args) {
         // 배열의 유사도
         String[] s1 = {"a", "b", "c"};
