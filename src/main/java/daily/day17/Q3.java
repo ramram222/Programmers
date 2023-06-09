@@ -1,6 +1,6 @@
 package daily.day17;
 
-public class plusAll {
+public class Q3 {
     // 자릿수 더하기
     public static void main(String[] args) {
         int n = 1234;
