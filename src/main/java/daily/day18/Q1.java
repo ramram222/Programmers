@@ -1,6 +1,6 @@
-package level.lv0;
+package daily.day18;
 
-public class StringInString {
+public class Q1 {
     // 문자열안에 문자열
     public static void main(String[] args) {
         String str1 = "ab6CDE443fgh22iJKlmn1o";
