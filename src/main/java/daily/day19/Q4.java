@@ -1,6 +1,6 @@
-package level.lv0;
+package daily.day19;
 
-public class TallerThanMe {
+public class Q4 {
     // 머쓱이보다 키 큰 사람
     public static void main(String[] args) {
         int[] array = {49, 180, 192, 170};

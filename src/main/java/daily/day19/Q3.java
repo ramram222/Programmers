@@ -1,6 +1,6 @@
-package level.lv0;
+package daily.day19;
 
-public class DuplicationNumber {
+public class Q3 {
     // 중복된 숫자 개수
     public static void main(String[] args) {
         int[] array = {1, 1, 2, 3, 4, 5};
